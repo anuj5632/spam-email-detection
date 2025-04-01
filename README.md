@@ -7,9 +7,13 @@ Dataset: Uses a labeled dataset containing spam and non-spam emails.
 Preprocessing:
 
 Removes special characters, stopwords, and punctuation.
+
 Tokenization and vectorization (TF-IDF or CountVectorizer) for text processing.
+
 Modeling: Implements classification models like Naïve Bayes, Logistic Regression, Random Forest, or SVM.
+
 Evaluation: Performance is measured using accuracy, precision, recall, F1-score, and confusion matrix.
+
 Deployment: Can be integrated into email services for real-time spam detection.
 
 Result
